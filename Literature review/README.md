@@ -13,10 +13,11 @@ The literature review was first done in the *Covidence* web application [https:/
 
 🟥
 
-![pink](https://github.com/Barquena/Master-Thesis/assets/90822097/cc4169c0-9e85-4721-80b9-dce4c27b4d29)
+![pink](https://github.com/Barquena/Master-Thesis/assets/90822097/fa390945-1047-4e40-bd8d-388d6695d457)
 
 
-:hibiscus:
+
+
 ## Excel document layout
 
 ## Example
