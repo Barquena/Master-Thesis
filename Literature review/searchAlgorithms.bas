@@ -5,14 +5,6 @@
 '####################################################'
 
 Attribute VB_Name = "Module1"
-
-'Call both function'
-Sub tri()
-Attribute tri.VB_ProcData.VB_Invoke_Func = "F\n14"
- Call findIncluded
- Call findDoubles
-End Sub
-
    
 Sub findIncluded()
 Attribute findIncluded.VB_ProcData.VB_Invoke_Func = "F\n14"
