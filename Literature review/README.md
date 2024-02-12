@@ -5,21 +5,15 @@ The following set of sub-routines was made to do a backward citation search for 
 The literature review was first done in the *Covidence* web application [https://app.covidence.org/]. A total of 25 536 articles were screened. A total of 24 536 articles were considered irrelevant. A total of 526 were excluded after the articles were read. A total of 252 articles were included. From those 252 articles, the bibliography was extracted with the help of *chatGPT* [https://chat.openai.com] to keep only the titles of the cited articles and was logged in an Excel document. After string formatting each title, a backward citation search was conducted to see if any relevant articles were missed during the literature review.
 
 ## Color code
-🟪
+🟥 -> Duplicates from the irrelevant, excluded, or included list of articles.
 
-🟨
+🟨 -> Articles that are not duplicates.
 
-🟩
+🟪 -> Duplicates found in potential new articles to include (i.e. yellow category).
 
-🟥
+🟦 -> Articles containing the words Congenital/congenital.
 
-![pink](https://github.com/Barquena/Master-Thesis/assets/90822097/d4a9d2be-9a87-4ee1-8da7-e1679b4acafe)
-
-
-
-
-
-## Excel document layout
+![pink](https://github.com/Barquena/Master-Thesis/assets/90822097/d4a9d2be-9a87-4ee1-8da7-e1679b4acafe) -> Articles containing the words Systemic right ventricle / systemic right ventricle
 
 ## Example
 
