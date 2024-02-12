@@ -67,7 +67,7 @@ Attribute removeFirst4.VB_ProcData.VB_Invoke_Func = "Q\n14"
     Next
 End Sub
 
-Sub mettreEnMinuscule()
+Sub toLowerCase()
 
   Dim zone As Range
     
@@ -91,7 +91,7 @@ skip:
 
 End Sub
 
-Sub enleverDernierCaractere()
+Sub removeLastChar()()
 
     Dim zone As Range
     Dim point As String
