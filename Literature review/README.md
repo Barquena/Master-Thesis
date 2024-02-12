@@ -6,9 +6,16 @@ The literature review was first done in the *Covidence* web application [https:/
 
 ## Color code
 🟪
+
 🟨
+
 🟩
+
 🟥
+
+![pink](https://github.com/Barquena/Master-Thesis/assets/90822097/cc4169c0-9e85-4721-80b9-dce4c27b4d29)
+
+
 :hibiscus:
 ## Excel document layout
 
