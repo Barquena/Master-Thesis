@@ -2,11 +2,13 @@
 
 ## Background
 The following set of sub-routines was made to do a backward citation search for a scoping review about cardiorespiratory measurements at exercise in patients with a systemic right ventricle.
-The literature review was first done in *Covidence* web application [https://app.covidence.org/]
+The literature review was first done in *Covidence* web application [https://app.covidence.org/]. A total of 25 361 articles were screened. A total of 24 536 articles were considered irrelevant. A total of 526 were excluded after articles were read. A total of 252 articles were included. From those 252 articles, the bibliography was extract with the help of *chatGPT* [https://chat.openai.com] to keep only the titles of the cited articles and was logged in a excel document. After string formating each titles, a backward citation search was conduct to see if any relevant articles were missed during the literarure review.
+
 ## Example
+
 Here is a example of how the sub-routines *findIrrelevant()* , *findIncluded()*, *findDoubles()* and *resetYGP()* would look like in a excel file.
 
-*findIrrelevant()*  -> Goes through a list of 24 536 articles names to see if it match the current one he is looking in a given cell;
+*findIrrelevant()*  -> Goes through a list of **24 536 articles** names to see if it match the current one he is looking in a given cell;
 
 *findIncluded()*    -> Verifies if the current cell containt the words Congenital/congenital/Systemic right ventricle/sytemic right ventricle;
 
@@ -15,7 +17,6 @@ Here is a example of how the sub-routines *findIrrelevant()* , *findIncluded()*,
 *resetYGP()*        -> Reset the interior color of the cell to *xlNone*. Only keep articles that were alreacy identidied previously as duplicate from a list of alreacy indetendy irrelevant articles.
 
 https://github.com/Barquena/Master-Thesis/assets/90822097/ee3022ec-dc01-4cce-9e18-8e473033199c
-
 
 ## String Forating
 ### removeFirst1()
