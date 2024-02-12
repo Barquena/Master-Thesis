@@ -18,7 +18,7 @@ Here is a example of how the sub-routines *findIrrelevant()* , *findIncluded()*,
 
 https://github.com/Barquena/Master-Thesis/assets/90822097/ee3022ec-dc01-4cce-9e18-8e473033199c
 
-## String Forating
+## String Formating
 ### removeFirst1()
 >Remove the first character from a string 
 ### removeFirst3()
@@ -32,7 +32,7 @@ https://github.com/Barquena/Master-Thesis/assets/90822097/ee3022ec-dc01-4cce-9e1
 ### subTrim()
 >Remove all white space in a string - call excel function *=trim()*
 
-## Search algorithm
+## Search algorithms
 
 ## Page reset
 ### resetYGP()
