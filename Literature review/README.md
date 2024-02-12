@@ -1,7 +1,7 @@
 # Documentation
 
 ## Background
-The following set of sub-routines was made to do a backward citation search for a scoping review about cardiorespiratory measurements at exercise in patients with a systemic right ventricle.
+The following set of sub-routines was made to do a backward citation search for a scoping review about cardiorespiratory measurements during an exercise in patients with a systemic right ventricle.
 The literature review was first done in the *Covidence* web application [https://app.covidence.org/]. A total of 25 536 articles were screened. A total of 24 536 articles were considered irrelevant. A total of 526 were excluded after the articles were read. A total of 252 articles were included. From those 252 articles, the bibliography was extracted with the help of *chatGPT* [https://chat.openai.com] to keep only the titles of the cited articles and was logged in an Excel document. After string formatting each title, a backward citation search was conducted to see if any relevant articles were missed during the literature review.
 
 ## Color code
@@ -27,7 +27,7 @@ Here is a example of how the sub-routines *findIrrelevant()* , *findIncluded()*,
 
 *resetYGP()*        -> Reset the interior color of the cells to *xlNone*. Only keep articles that were already identified as duplicates from the irrelevant, excluded, and included lists. Only if needed.
 
-https://github.com/Barquena/Master-Thesis/assets/90822097/ee3022ec-dc01-4cce-9e18-8e473033199c
+https://github.com/Barquena/Master-Thesis/assets/90822097/7c09df44-3673-4b8a-83f2-053e0bc419c9
 
 ## String Formating
 ### removeFirst1()
