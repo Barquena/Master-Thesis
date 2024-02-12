@@ -38,7 +38,7 @@ https://github.com/Barquena/Master-Thesis/assets/90822097/ee3022ec-dc01-4cce-9e1
 > Remove the first 4 characters from a string.
 ### mettreEnMinuscule()
 > Put all characters in lower-case in a string.
-### enleverDernierCaractere()
+### removeLastChar()
 > Remove the last character of a string.
 ### subTrim()
 > Remove all white spaces in a string - call excel function *=trim()*.
