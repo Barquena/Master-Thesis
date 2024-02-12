@@ -1,6 +1,6 @@
 #Documentation
 
-##
+## Background
 
 ## String Forating
 #removeFirst1()
