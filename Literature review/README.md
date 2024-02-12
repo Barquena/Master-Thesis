@@ -1,5 +1,7 @@
 #Documentation
-## 
+
+##
+
 ## String Forating
 #removeFirst1()
 >Remove the first character from a string 
