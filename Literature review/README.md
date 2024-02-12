@@ -13,7 +13,8 @@ The literature review was first done in the *Covidence* web application [https:/
 
 🟥
 
-![pink](https://github.com/Barquena/Master-Thesis/assets/90822097/fa390945-1047-4e40-bd8d-388d6695d457)
+![pink](https://github.com/Barquena/Master-Thesis/assets/90822097/d4a9d2be-9a87-4ee1-8da7-e1679b4acafe)
+
 
 
 
