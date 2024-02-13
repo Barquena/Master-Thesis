@@ -1,4 +1,4 @@
 ## Example
 
 
-![PCAsRV](https://github.com/Barquena/Master-Thesis/assets/90822097/a3960c2c-ece9-4bd5-846c-5a5a164e58b5)
+![PCAsRV](https://github.com/Barquena/Master-Thesis/assets/90822097/5f303a36-f285-4222-aefe-af5be03fb4d6)
