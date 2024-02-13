@@ -1,3 +1,4 @@
 ## Example
 
-https://github.com/Barquena/Master-Thesis/blob/main/Dimensionality%20Reduction/Principale%20components%20analysis/PCAsRV.gif
+
+![PCAsRV](https://github.com/Barquena/Master-Thesis/assets/90822097/91b74fd4-5ad6-407e-b152-19b29fad026e)
