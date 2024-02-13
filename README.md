@@ -7,8 +7,8 @@ This repository includes all the code I have written during my master's for the 
 
 ➡️ Principle components analysis : (🐍 - python)
 ### Literature review - Sorting algoryithm for a backward citation search
-➡️ String cleaning : (💾 - VBA for excel) 
+➡️ String formatting: (💾 - VBA for excel) 
 
-➡️ Find relevant articles : (💾 - VBA for excel)
+➡️ Search algorithms : (💾 - VBA for excel)
 
-➡️ Finds doubles :  (💾 - VBA for excel)
+➡️ Reset page:  (💾 - VBA for excel)
