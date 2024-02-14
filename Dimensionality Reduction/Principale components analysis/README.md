@@ -7,7 +7,7 @@ The data used to make this analysis is under Embargo. Only the methods used will
 Today, is it still unclear if having a systemic morphological right ventricle has a worse impact on the cardiorespiratory fitness of an individual as to have a disease impairing the function of a systemic morphological left ventricle. To change from the usual paradigm of looking at specific markers without knowing the real impact on the cardiorespiratory fitness of patients, principal components analysis was chosen. The unsupervised machine learning technique will allow us to explore from a different angle the relationships between clinical markers and the type of morphological ventricle in systemic position.
 
 ## Methods
-A total of 25 patients with a systemic morphological right ventricle were match to 25 patients with a systemic morphological left ventricle. Exact matching was used for sex and NYHA (i.e. respiratory empairment; 1 = no impairment, 2 = mild, 3 = moderate and 4 = severe) classification. Coarse exact matching was used for age, BMI, Diuritics doses and ejection fraction of the respective systemic ventricle. Principal components analysis was done with python (*version* 3.10.6) and sklearn packages (*version* 0.24.1).
+A total of 25 patients with a systemic morphological right ventricle were matched to 25 patients with a systemic morphological left ventricle. Exact matching was used for sex and NYHA (i.e. respiratory impairment; 1 = no impairment, 2 = mild, 3 = moderate, and 4 = severe) classification. Coarse exact matching was used for age, BMI, Diuretics doses, and ejection fraction of the respective systemic ventricle. Principal components analysis was done with Python (*version* 3.10.6) and Sklearn packages (*version* 0.24.1). Graphical representation of the marjor components was was is inspired by VanderPlas, J [1]. 
 
 ## Results
 
@@ -17,3 +17,8 @@ A total of 25 patients with a systemic morphological right ventricle were match 
 ## Discussion
 
 ## Conclusion
+
+
+## Bibliography
+
+(1) VanderPlas, J. (n.d.). In depth: Principal component analysis. In Depth: Principal Component Analysis | Python Data Science Handbook. https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html 
