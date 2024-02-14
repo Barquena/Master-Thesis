@@ -12,7 +12,8 @@ A total of 25 patients with a sRV were matched to 25 patients with a sLV. Exact 
 ## Results
 
 It turns out that PC1 is one of the
-![output](https://github.com/Barquena/Master-Thesis/assets/90822097/06d2641b-95c4-4d1c-a651-12373f4e960d)
+
+![output](https://github.com/Barquena/Master-Thesis/assets/90822097/0f84466b-df64-48bb-9017-41fd8ad455d3)
 
 ### Figure 1 - *Difference between patients with a systemic morphological right ventricle and a systemic morphological left ventricle*
 > Because data is under embargo, principal(s) component(s) (PC) will not be disclose. *PC1*, with is the same variable for patients with a systemic morphological right ventricle (sRV) and patients with a systemic morphological left ventricle (sLV) , explained 20 and 18% of variance respectiveley; *PC2_A*, explained 13% of vairance in sRV patients; *PC2_B* explained 22% of variance in sLV patients. (🔵) - systemic left ventricle; (🔴) - systemic right ventricle. 
