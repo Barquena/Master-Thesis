@@ -7,9 +7,11 @@ The data used to make this analysis is under Embargo. Only the methods used will
 Today, is it still unclear if having a systemic morphological right ventricle (sRV) has a worse impact on the cardiorespiratory fitness of an individual as to have a disease impairing the function of a systemic morphological left ventricle (sLV). To change from the usual paradigm of looking at specific markers without knowing the real impact on the cardiorespiratory fitness of patients, principal components analysis was chosen. This unsupervised machine learning technique allowed us to explore from a different angle the potentional relationships between clinical markers and the type of morphological ventricle in systemic position.
 
 ## Methods
-A total of 25 patients with a sRV were matched to 25 patients with a sLV. Exact matching was used for sex and NYHA (i.e. respiratory impairment; 1 = no impairment, 2 = mild, 3 = moderate, and 4 = severe) classification. Coarse exact matching was used for age, BMI, diuretics doses, and ejection fraction of the respective systemic ventricle. Principal components analysis was done with Python (*version* 3.10.6) and Sklearn packages (*version* 0.24.1). The 3 marjors components for the sRV ans sLV groups were plot with matPlotLib pakages (*version* 3.6.1). Graphical representations of the marjor components for both groups were inspired by VanderPlas, J [1]. 
+A total of 25 patients with a sRV were matched to 25 patients with a sLV. Exact matching was used for sex and NYHA (i.e. respiratory impairment; 1 = no impairment, 2 = mild, 3 = moderate, and 4 = severe) classification. Coarse exact matching was used for age, BMI, diuretics doses, and ejection fraction of the respective systemic ventricle. Principal components analysis was done with Python (*version* 3.10.6) and Sklearn packages (*version* 0.24.1). The 3 marjors components for the sRV ans sLV groups were plot with matPlotLib pakages (*version* 3.6.1). The script for this analysis was based on VanderPlas, J [1]. 
 
 ## Results
+
+It turns out that PC1 is one of the
 ![output](https://github.com/Barquena/Master-Thesis/assets/90822097/06d2641b-95c4-4d1c-a651-12373f4e960d)
 
 ### Figure 1 - *Difference between patients with a systemic morphological right ventricle and a systemic morphological left ventricle*
