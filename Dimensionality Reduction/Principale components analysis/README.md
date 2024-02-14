@@ -10,6 +10,7 @@ Today, is it still unclear if having a systemic morphological right ventricle (s
 A total of 25 patients with a sRV were matched to 25 patients with a sLV. Exact matching was used for sex and NYHA (i.e. respiratory impairment; 1 = no impairment, 2 = mild, 3 = moderate, and 4 = severe) classification. Coarse exact matching was used for age, BMI, diuretics doses, and ejection fraction of the respective systemic ventricle. Principal components analysis was done with Python (*version* 3.10.6) and Sklearn packages (*version* 0.24.1). The 3 marjors components for the sRV ans sLV groups were plot with matPlotLib pakages (*version* 3.6.1). Graphical representations of the marjor components for both groups were inspired by VanderPlas, J [1]. 
 
 ## Results
+![output](https://github.com/Barquena/Master-Thesis/assets/90822097/06d2641b-95c4-4d1c-a651-12373f4e960d)
 
 ### Figure 1 - *Difference between patients with a systemic right ventricle and a systemic left ventricle*
 > Because data is under embargo, principal(s) component(s) (PC) will not be disclose. *PC1*, explained 18% of variance; *PC2*, explained 16% of vairance; *PC3* explained 10% of variance. Group 0 (🔵) - systemic left ventricle; group 1 (🔴) - systemic right ventricle. 
