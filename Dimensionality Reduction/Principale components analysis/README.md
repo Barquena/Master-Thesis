@@ -13,7 +13,7 @@ A total of 25 patients with a sRV were matched to 25 patients with a sLV. Exact 
 ![output](https://github.com/Barquena/Master-Thesis/assets/90822097/06d2641b-95c4-4d1c-a651-12373f4e960d)
 
 ### Figure 1 - *Difference between patients with a systemic right ventricle and a systemic left ventricle*
-> Because data is under embargo, principal(s) component(s) (PC) will not be disclose. *PC1*, explained 18% of variance; *PC2*, explained 16% of vairance; *PC3* explained 10% of variance. Group 0 (🔵) - systemic left ventricle; group 1 (🔴) - systemic right ventricle. 
+> Because data is under embargo, principal(s) component(s) (PC) will not be disclose. *PC1*, with is the same variable for sRV and sLV patients, explained 20 and 18% of variance respectiveley; *PC2_A*, explained 13% of vairance in sRV patients; *PC2_B* explained 22% of variance in sLV patients. (🔵) - systemic left ventricle; (🔴) - systemic right ventricle. 
 
 ## Discussion
 
